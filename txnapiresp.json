@@ -1,0 +1,37 @@
+{
+    "meta": {
+        "code": "0",
+        "description": "success",
+        "status": 0
+    },
+    "data": {
+        "totalAmount": "123",
+        "transactions": [
+            {
+                "txnId": "11212",
+                "amount": "12",
+                "txnTime": "2023-12-20 10:40:55"
+            },
+            {
+                "txnId": "11213",
+                "amount": "10",
+                "txnTime": "2023-12-20 10:41:55"
+            },
+            {
+                "txnId": "11214",
+                "amount": "10",
+                "txnTime": "2023-12-20 10:42:55"
+            },
+            {
+                "txnId": "11213",
+                "amount": "10",
+                "txnTime": "2023-12-20 10:43:55"
+            },
+            {
+                "txnId": "11214",
+                "amount": "10",
+                "txnTime": "2023-12-20 10:44:55"
+            }
+        ]
+    }
+}
